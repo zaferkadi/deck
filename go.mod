@@ -1,4 +1,4 @@
-module deck
+module github.com/zaferkadi/deck
 
 go 1.15
 
